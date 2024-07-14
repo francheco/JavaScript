@@ -1,7 +1,7 @@
 
 ### Code
 
-index.html This HTML file defines the structure of a webpage where the JavaScript output will be displayed
+Restaurant.html This HTML file defines the structure of a webpage where the JavaScript output will be displayed
 
 The script file contains JavaScript code that simulates a restaurant scenario.
 
