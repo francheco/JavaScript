@@ -19,10 +19,14 @@ When your Node.js application starts, you can use a package like dotenv to load 
 
 
 DB_HOST: This is the hostname or endpoint of your database server. For instance. your-database-instance.xxx.us-west-2.rds.amazonaws.com
+
 DB_USER: The username to access the database.
+
 DB_PASSWORD: The password corresponding to the DB_USER.
+
 DB_NAME: The name of the database you want to connect to.
-PORT: The port on which your Node.js application will listen (default is 3000 in this example).
+
+PORT: The port on which your Node.js application will listen
 
 
 Packages.json
