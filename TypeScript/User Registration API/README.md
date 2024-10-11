@@ -38,9 +38,13 @@ In-memory User Storage: create an array of users to store registered user inform
 POST Endpoint: define a /register endpoint that:
 
 Destructures the user data from the request body.
+
 Validate the input to ensure all fields are present.
+
 Check if the email already exists in the user's array.
+
 Creates a new user if validation passes and adds them to the user's array.
+
 Responds with a success message and the user's data in JSON format.
 
 Starting the Server: Finally, start the Express server on port 3000 and log a message indicating that the server is running.
